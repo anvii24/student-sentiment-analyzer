@@ -50,3 +50,12 @@ student-sentiment-analyzer/
 ├── README.md
 └── requirements.txt
 
+## Demo
+
+**Before Analysis:**
+
+<img src="screenshots/ui_before.png" width="600"/>
+
+**After Analysis:**
+
+<img src="screenshots/ui_after.png" width="600"/>
