@@ -1,0 +1,17 @@
+# Python venv
+venv/
+.env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Model files
+models/*.pkl
+
+# Streamlit cache
+.streamlit/
+
+# OS clutter
+.DS_Store
+Thumbs.db
